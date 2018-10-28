@@ -19,3 +19,11 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+参考↓
+
+[Qiitaのvue-cliで始めるVue.jsチュートリアル ](https://qiita.com/sin_tanaka/items/29769266b3b078ea0f7c)
+
+とりあえずこれを写経しながらVueについての理解を深める。
+
+あとできればwebpackとも対話していきたい。
